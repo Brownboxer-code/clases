@@ -7,3 +7,18 @@
 .principal {
 width: 100%
 }
+.tdot {
+    float:right;
+}
+
+.block{
+    display:inline-block
+}
+
+.estilo{
+    text-align:center
+}
+
+.estilo1{
+    text-align:justify
+}
